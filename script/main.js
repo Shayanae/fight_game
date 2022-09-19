@@ -211,7 +211,6 @@ window.addEventListener('keydown', (event) => {
             enemy.isAttacking = true;
             break;
     }
-    console.log(event.key);
 })
 
 // manage key release
